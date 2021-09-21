@@ -20,7 +20,7 @@ int main(){
 	else if(60>perc && perc>=50){
 		printf("D");
 	}	
-	else if(50>perc && perc>=40){
+	else if(50>perc && perc>=0){
 		printf("NEED IMPROVEMENT");
 	}
 	return 0;
