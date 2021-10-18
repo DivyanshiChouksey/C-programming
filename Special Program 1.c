@@ -1,8 +1,10 @@
-//SPECIAL Program 1
+//Special Program 1
 #include<stdio.h>
-int main(){
-	if(5)
-		printf("hello");
+
+//while(1)
+int main()
+{	if(5)
+	printf("hello");
 	else
 	printf("hii");
 }
