@@ -7,7 +7,7 @@ int main(){
 		printf("You can't apply for driving licence");
 	}
 	else{
-		printf("you can apply for drivimg licence");
+		printf("You can apply for drivimg licence");
 	}
 	
 	return 0;
