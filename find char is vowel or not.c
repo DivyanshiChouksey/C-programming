@@ -18,7 +18,7 @@ int main(){
 		printf("You have entered a vowel");
 		break;
 		default:
-			printf("You have entered a consonent");
+			printf("You have entered a consonent ");
 	}
 	return 0;
 }
